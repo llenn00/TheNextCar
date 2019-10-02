@@ -1,0 +1,15 @@
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\bin\Debug\TheNextCar.exe.config
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\bin\Debug\TheNextCar.exe
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\bin\Debug\TheNextCar.pdb
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csprojAssemblyReference.cache
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\MainWindow.g.cs
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\App.g.cs
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar_MarkupCompile.cache
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar_MarkupCompile.lref
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\MainWindow.baml
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.g.resources
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.Properties.Resources.resources
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.GenerateResource.cache
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.CoreCompileInputs.cache
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.exe
+D:\18.11.2031\TheNextCar\TheNextCar\TheNextCar\obj\Debug\TheNextCar.pdb
